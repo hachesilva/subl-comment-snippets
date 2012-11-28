@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/*-----  End of ${1:Section comment block}  ------*/
+
+
+]]></content>
+	<tabTrigger>comm-section-footer</tabTrigger>
+	<description>Comment - Section footer comment</description>
+</snippet>

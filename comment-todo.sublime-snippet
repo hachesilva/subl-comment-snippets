@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+/**
+
+	TODO:
+	- ${1:First todo item}
+	- ${1:Second todo item}
+
+**/
+
+]]></content>
+	<tabTrigger>todo</tabTrigger>
+	<description>Comment - To-do list</description>
+	<scope>source.html</scope>
+</snippet>

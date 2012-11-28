@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+/* ${1:Comment} */
+
+]]></content>
+	<tabTrigger>comm</tabTrigger>
+	<description>Comment - Single-line block comment</description>
+</snippet>

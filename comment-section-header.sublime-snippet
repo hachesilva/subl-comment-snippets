@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+/*========================${1/./=/g}
+=            ${1:Section comment block}            =
+========================${1/./=/g}*/
+
+$2
+
+
+]]></content>
+	<tabTrigger>comm-section-header</tabTrigger>
+	<description>Comment - Section header comment</description>
+</snippet>
