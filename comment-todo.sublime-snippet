@@ -4,12 +4,11 @@
 
 	TODO:
 	- ${1:First todo item}
-	- ${1:Second todo item}
+	- ${2:Second todo item}
 
 **/
 
 ]]></content>
-	<tabTrigger>todo</tabTrigger>
+	<tabTrigger>comm-todo</tabTrigger>
 	<description>Comment - To-do list</description>
-	<scope>source.html</scope>
 </snippet>
