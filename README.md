@@ -2,6 +2,8 @@
 
 Several snippets to create some fancy PHP, CSS and HTML comments in [Sublime Text](http://www.sublimetext.com/).
 
+![Comment Snippet Preview](CommentSnippets.gif)
+
 ## Comments Examples
 
 ### HTML Comment
@@ -74,7 +76,7 @@ Tab trigger: `comm-section-footer` + `tab`
 
 ### Todo Comment
 
-Tab trigger: `comm-section-footer` + `tab`
+Tab trigger: `comm-todo` + `tab`
 
 ```css
 /**
