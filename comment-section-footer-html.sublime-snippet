@@ -1,11 +1,11 @@
 <snippet>
 
 <content><![CDATA[
-<!--=====  ${1:Section comment block}  ====-->
+<!--=====  ${1:HTML footer block comment}  ====-->
 $2
 ]]></content>
 
-	<tabTrigger>comm-footer-html</tabTrigger>
+	<tabTrigger>comm-html-footer</tabTrigger>
 	<scope>text.html</scope>
 	<description>Comment - HTML section footer comment</description>
 </snippet>
