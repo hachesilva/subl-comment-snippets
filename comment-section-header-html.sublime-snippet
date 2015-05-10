@@ -6,7 +6,7 @@
 $2
 ]]></content>
 
-	<tabTrigger>comm-header-html</tabTrigger>
+	<tabTrigger>comm-html-header</tabTrigger>
 	<scope>text.html</scope>
 	<description>Comment - HTML section header comment</description>
 </snippet>
