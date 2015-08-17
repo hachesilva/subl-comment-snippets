@@ -6,7 +6,7 @@
 	- ${1:First todo item}
 	- ${2:Second todo item}
 
-**/
+ */
 
 ]]></content>
 	<tabTrigger>comm-todo</tabTrigger>

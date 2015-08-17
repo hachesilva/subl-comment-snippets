@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!--=====  End of ${1:Section comment}  ======-->
+
+]]></content>
+	<tabTrigger>comm-html-footer</tabTrigger>
+	<scope>text.html</scope>
+	<description>Comment - HTML section footer</description>
+</snippet>

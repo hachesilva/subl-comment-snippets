@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<!--========================${1/./=/g}
+=            ${1:Section comment}            =
+========================${1/./=/g}-->
+
+$2
+
+<!--=====  End of ${1:Section comment}  ======-->
+
+]]></content>
+	<tabTrigger>comm-html-section</tabTrigger>
+	<scope>text.html</scope>
+	<description>Comment - HTML section</description>
+</snippet>
