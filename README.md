@@ -4,6 +4,17 @@ Several snippets to create some fancy PHP, CSS and HTML comments in [Sublime Tex
 
 ![Comment Snippet Preview](CommentSnippets.gif)
 
+## To Install
+
+### On Sublime Text 2 (OS X 10.10)
+
+From inside this project folder, run
+
+```
+cp *.sublime-snippet "${HOME}/Library/Application Support/Sublime Text 2/Packages/User/"
+
+```
+
 ## Comments Examples
 
 ### HTML Comments
