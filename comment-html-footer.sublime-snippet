@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<!--=====  End of ${1:Section comment}  ======-->
+<!--====  End of ${1:Section comment}  ====-->
 
 ]]></content>
 	<tabTrigger>comm-html-footer</tabTrigger>
