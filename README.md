@@ -2,6 +2,8 @@
 
 Several snippets to create some fancy PHP, CSS and HTML comments in [Sublime Text](http://www.sublimetext.com/).
 
+Atom version here: https://atom.io/packages/section-comment-snippets
+
 ![Comment Snippet Preview](CommentSnippets.gif)
 
 ## Comments Examples
