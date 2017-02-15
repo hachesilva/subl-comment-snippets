@@ -4,6 +4,5 @@
 
 ]]></content>
 	<tabTrigger>comm-html-footer</tabTrigger>
-	<scope>text.html</scope>
 	<description>Comment - HTML section footer</description>
 </snippet>
