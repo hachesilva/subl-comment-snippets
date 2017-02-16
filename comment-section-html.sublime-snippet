@@ -1,0 +1,13 @@
+<snippet>
+
+<content><![CDATA[
+<!-- ${1:HTML section comment block} 
+========================${1/./=/g}-->
+$2
+<!--=====  End of ${1:HTML section comment block}  ====-->
+]]></content>
+
+	<tabTrigger>comm-html-section</tabTrigger>
+	<scope>text.html</scope>
+	<description>Comment - HTML section comment</description>
+</snippet>
