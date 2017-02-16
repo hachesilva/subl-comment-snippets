@@ -6,6 +6,17 @@ Atom version here: https://atom.io/packages/section-comment-snippets
 
 ![Comment Snippet Preview](CommentSnippets.gif)
 
+## To Install
+
+### On Sublime Text 2 (OS X 10.10)
+
+From inside this project folder, run
+
+```
+cp *.sublime-snippet "${HOME}/Library/Application Support/Sublime Text 2/Packages/User/"
+
+```
+
 ## Comments Examples
 
 ### HTML Comments
