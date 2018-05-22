@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+"""
+
+   ${1:Block comment}
+
+"""
+
+]]></content>
+	<tabTrigger>comm-py-block</tabTrigger>
+	<description>Comment - Block style Python comment</description>
+</snippet>

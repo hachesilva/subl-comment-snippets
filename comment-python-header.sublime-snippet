@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+# ========================${1/./=/g}
+# =           ${1:Section comment block}           =
+# ========================${1/./=/g}
+
+$2
+
+]]></content>
+	<tabTrigger>comm-py-header</tabTrigger>
+	<description>Comment - Section header Python comment</description>
+</snippet>
