@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+# -----------  ${1:Subsection comment block}  -----------
+
+]]></content>
+	<tabTrigger>comm-py-subsection</tabTrigger>
+	<description>Comment - Subsection Python comment</description>
+</snippet>

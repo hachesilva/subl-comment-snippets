@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+# ======  End of ${1:Section comment block}  =======
+
+]]></content>
+	<tabTrigger>comm-py-footer</tabTrigger>
+	<description>Comment - Section footer Python comment</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+""" ${1:Comment} """
+
+]]></content>
+	<tabTrigger>comm-py</tabTrigger>
+	<description>Comment - Single-line Python comment</description>
+</snippet>
